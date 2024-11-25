@@ -1,4 +1,5 @@
 <h1 align="center"> Welcome everyone! My name is Jion Choi 😀 <br> </h2>
+
 ## **About Me** 
 I am a Computer Science Major and Business Minor at The King's University in Edmonton, Alberta!
 
