@@ -4,7 +4,7 @@ I am currently in
 ## **Projects** <br>
 ### Minesweeper 💣
   • I created a desktop game, Minesweeper using Java Swing <br>
-  <img width="500" height="450" alt="Screenshot 2024-11-25 at 1 48 34 PM" src="https://github.com/user-attachments/assets/b4a8ab88-9615-40b1-b6fc-f8fa74b874a1">
+    <img width="250" height="300" alt="Screenshot 2024-11-25 at 1 49 30 PM" src="https://github.com/user-attachments/assets/7704ce5c-2df7-4db9-b713-337c04567e9a">
 
 ### EmoNeuro 🧠🎼
   • Our team made a web application to detect users' current emotions based on the EEG signal
