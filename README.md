@@ -1,5 +1,11 @@
 <h1 align="center"> Welcome everyone! My name is Jion Choi 😀 <br> </h2>
-I am currently in 
+## **About Me** 
+I am a Computer Science Major and Business Minor at The King's University in Edmonton, Alberta!
+
+## **Technical Skills**
+I have various experiences and projects in lots of different programming languages and frameworks such as 
+  - Java, C++, HTML/CSS, JavaScript, TypeScript, Python, SQL
+  - React.js, Java Spring Boot, PostgreSQL, App Script, VueJS, Streamlit
 
 ## **Projects** <br>
 ### Minesweeper 💣
@@ -9,4 +15,5 @@ I am currently in
   • Our Team developed a web application to detect users' emotional states through real-time EEG data and provide adaptive personalized music during natHACKS 2024 (November 14 ~ November 17). We trained 5 different Machine Learning Models to get more accurate emotions. We used Jupyter Notebook for our ML Models and Emotion Detection, and Streamlit framework (Python) for the Graphical User Interface. Check out our submission in [**Devpost**]( https://devpost.com/software/brainwave-riders?ref_content=contribution-prompt&ref_feature=engagement&ref_medium=email&utm_campaign=contribution-prompt&utm_content=contribution_reminder&utm_medium=email&utm_source=transactional#app-team ) and [**Github**](https://github.com/jionchoi/2024_NatHack_Brainwave_Riders/blob/main/README.md)!
 
 ### GanttChart Personal Planner 📆 (Work-in-progress)
-  • I am making a GanttChart & Personal Planner website using Vue.js  
+  • I am making a GanttChart & Personal Planner website using 
+
