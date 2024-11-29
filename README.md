@@ -64,7 +64,7 @@
 
 ###
 
-<h3 align="left" font="12px"> 🔥 My Projects: </h3> 
+<h3 align="left"> 🔥 My Projects: </h3> 
 
 ###
 
