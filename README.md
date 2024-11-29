@@ -64,9 +64,10 @@
 
 ###
 
-<h3 align="left"> 🔥 My Projects: </h3> ###
+<h3 align="left"> 🔥 My Projects: </h3> 
 
-  <p>
+###
+<p>
   Minesweeper 💣
   • Developed a desktop game, Minesweeper using Java Swing. Check out my Minesweeper game and give it a try!
   For those who don't know what Minesweeper is, it is a class logic-based puzzle game where the player's objective is to open all "non-mine" boxes without detonating hidden mines. Each square may either contain a mine or display a number indicating how many mines are adjacent to it.
