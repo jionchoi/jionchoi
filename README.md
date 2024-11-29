@@ -77,3 +77,10 @@
   
  ## GanttChart Personal Planner 📆 (Work-in-progress) <br/>
   • I am making a GanttChart & Personal Planner full-stack web application that allows users to keep track of their work. PostgreSQL for data storage, Spring Boot for a RESTful API backend, and ReactJS for frontend
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jionchoi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
