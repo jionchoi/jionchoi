@@ -69,7 +69,7 @@
 ###
 
   Minesweeper 💣 <br/>
-  • Developed a desktop game, Minesweeper using Java Swing. Check out my [**Minesweeper**](https://github.com/jionchoi/Minesweeper) game and give it a try!
+  • Developed a desktop game, Minesweeper using Java Swing. Check out my [**Minesweeper**](https://github.com/jionchoi/Minesweeper) game and give it a try! <br/>
   *For those who don't know what Minesweeper is, it is a class logic-based puzzle game where the player's objective is to open all "non-mine" boxes without detonating hidden mines. Each square may either contain a mine or display a number indicating how many mines are adjacent to it.*
   
   EmoNeuro 🧠🎼 <br/>
