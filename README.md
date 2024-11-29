@@ -79,7 +79,7 @@
   • I am making a GanttChart & Personal Planner full-stack web application that allows users to keep track of their work. PostgreSQL for data storage, Spring Boot for a RESTful API backend, and ReactJS for frontend
 
 ###
-My Github Stats 🐈
+<h3> My Github Stats 🐈 </h3>
 
 ###
 <div align="left">
