@@ -64,8 +64,8 @@
 
 ###
 
-<h3 align="left"> 🔥 My Projects: </h3>
-###
+<h3 align="left"> 🔥 My Projects: </h3> ###
+
   <p>
   Minesweeper 💣
   • Developed a desktop game, Minesweeper using Java Swing. Check out my Minesweeper game and give it a try!
