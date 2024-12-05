@@ -19,7 +19,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me:</h3>
 
 ###
 
@@ -64,7 +64,7 @@
 
 ###
 
-<h3 align="left"> 🔥 My Projects: </h3> 
+<h3 align="left"> 🔥 My Recent Projects: </h3> 
 
 ###
 
