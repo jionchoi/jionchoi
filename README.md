@@ -68,9 +68,8 @@
 
 ###
 
- ## Minesweeper  💣 <br/>
-  • Developed a desktop game, Minesweeper using Java Swing. Check out my [**Minesweeper**](https://github.com/jionchoi/Minesweeper) game and give it a try! <br/>
-    *For those who don't know what Minesweeper is, it is a class logic-based puzzle game where the player's objective is to open all "non-mine" boxes without detonating hidden mines. Each square may either contain a mine or display a number indicating how many mines are adjacent to it.*
+ ## Orator 🗣️ <br/>
+  • Our team developed a web application to help people improve their presentation skills both before and during their speech, without adding stress or pressure during natHACKS 2025 (November 7 ~ 10). We used the Muse S device and Brainflow to detect the user's emotion, YOLOv11 to analyze their posture and movement, and the Google speech-to-text model and LLM to give real-time tips and improvements. Check out our submission in [**Devpost**](https://devpost.com/software/orator-kjcrmv) and [**Github**](https://github.com/AustinBao/orator). It's also live on our [**website**](orator-liart.vercel.app)!
   
 ##  EmoNeuro 🧠🎼  <br/>
   • Our Team developed a web application to detect users' emotional states through real-time EEG data and provide adaptive personalized music during natHACKS 2024 (November 14 ~ November 17). We trained 5 different Machine Learning Models to get more accurate emotions. We used Jupyter Notebook for our ML Models and Emotion Detection, and Streamlit framework (Python) for the Graphical User Interface. Check out our submission in [**Devpost**]( https://devpost.com/software/brainwave-riders?ref_content=contribution-prompt&ref_feature=engagement&ref_medium=email&utm_campaign=contribution-prompt&utm_content=contribution_reminder&utm_medium=email&utm_source=transactional#app-team ) and [**Github**](https://github.com/jionchoi/2024_NatHack_Brainwave_Riders)!
