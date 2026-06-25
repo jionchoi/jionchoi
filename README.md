@@ -51,18 +51,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
-<h3 align="left"> 🔥 My Recent Projects: </h3> 
-###
+## 📚 [Vocab Master](https://vocabmaster.io)
+A gamified vocabulary-building platform that helps users learn and retain new words through interactive mini-games and spaced practice.
+- **Frontend:** React 18 + Vite, **Phaser 3** game engine, Tailwind, Radix UI, Framer Motion, Chart.js for progress tracking
+- **Backend:** Java 21 + **Spring Boot 3**, Spring Data JPA, Spring Security with JWT, PostgreSQL, Swagger/OpenAPI
+- **Payments & infra:** Stripe subscriptions, Dockerized API, Resend email
 
-## Vocab Master 📚 <br/>
-  • A vocabulary-building app designed to help users learn and retain new words more effectively. Check it out on our [**website**](https://vocabmaster.io)!
+## 💭 [uhhh.ai](https://uhhh.ai)
+A cross-platform desktop word-finder — hit a global hotkey, describe the word that's on the tip of your tongue, and the suggestion is injected right at your cursor.
+- **App:** **Tauri 2 (Rust core)** + React 19 + TypeScript + Vite, floating overlay UI, encrypted local vocab vault
+- **Backend:** **Cloudflare Workers + D1**, Clerk auth, Paddle billing, OpenAI-powered inference via a zero-retention proxy
+- **Notable:** Security-first threat model, auto-updater, tier-gated quotas; targets macOS 13+ / Windows 10+
 
-## uhhh.ai 💭 <br/>
-  • A desktop word-finding utility that helps you find the word you're looking for when it's just out of reach. Check it out on our [**website**](https://uhhh.ai)!
-
-## Picky Friend 🍽️ <br/>
-  • A food recommendation app that takes the stress out of deciding what to eat by picking a cuisine and restaurant for you. Check it out on our [**website**](https://pickyfriend.com)!
+## 🍽️ [Picky Friend / Foody's](https://pickyfriend.com)
+A food recommendation app that takes the stress out of "what should we eat?" — it picks a cuisine and a real nearby restaurant for you.
+- **Stack:** Next.js 15 + React 19 + TypeScript, Tailwind, Framer Motion
+- **AI & data:** **Google Places API (New)** + **OpenAI** (server-side only), with AI grounded strictly to real nearby restaurants — no hallucinated picks
+- **Infra:** Upstash Redis rate-limiting & caching, Zod validation, SSRF-safe photo proxying, blended ranking (rating + reviews + proximity + open-now), spin-the-wheel picker
 
 ## Orator 🗣️ <br/>
   • Our team developed a web application to help people improve their presentation skills both before and during their speech, without adding stress or pressure during natHACKS 2025 (November 7 ~ 10). We used the Muse S device and Brainflow to detect the user's emotion, YOLOv11 to analyze their posture and movement, and the Google speech-to-text model and LLM to give real-time tips and improvements. Check out our submission in [**Devpost**](https://devpost.com/software/orator-kjcrmv) and [**Github**](https://github.com/AustinBao/orator). It's also live on our [**website**](https://orator-liart.vercel.app/)!
